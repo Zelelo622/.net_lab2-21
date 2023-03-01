@@ -1,0 +1,15 @@
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\bin\Debug\net6.0\lab2-21CA.exe
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\bin\Debug\net6.0\lab2-21CA.deps.json
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\bin\Debug\net6.0\lab2-21CA.runtimeconfig.json
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\bin\Debug\net6.0\lab2-21CA.dll
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\bin\Debug\net6.0\lab2-21CA.pdb
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\lab2-21CA.csproj.AssemblyReference.cache
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\lab2-21CA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\lab2-21CA.AssemblyInfoInputs.cache
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\lab2-21CA.AssemblyInfo.cs
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\lab2-21CA.csproj.CoreCompileInputs.cache
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\lab2-21CA.dll
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\refint\lab2-21CA.dll
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\lab2-21CA.pdb
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\lab2-21CA.genruntimeconfig.cache
+D:\Coding\Programming\C#\lab2\lab2-21CA\lab2-21CA\obj\Debug\net6.0\ref\lab2-21CA.dll
