@@ -12,8 +12,6 @@
 			string[] words = file.Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries);
 			Dictionary<int, int> dictLettersCount = new Dictionary<int, int>();
 
-			String text = "";
-
 			foreach (string word in words)
 			{
 				int lettersCount = word.Length;
@@ -29,7 +27,7 @@
 				
 			}
 
-			WriteResults(text, dictLettersCount);
+			WriteResults(dictLettersCount);
 		}
 
 		private static String EraseExtraChar(String text)
@@ -45,8 +43,9 @@
 			return File.ReadAllText("D:\\Coding\\Programming\\C#\\lab2\\lab2-21CA\\lab2-21CA\\resources\\" + filename + ".txt");
 		}
 
-		private static void WriteResults(String text, Dictionary<int, int> dictLettersCount)
+		private static void WriteResults(Dictionary<int, int> dictLettersCount)
 		{
+			String text = "";
 			String path = "D:\\Coding\\Programming\\C#\\lab2\\lab2-21CA\\lab2-21CA\\resources\\result.txt";
 			File.Create(path).Close();
 
